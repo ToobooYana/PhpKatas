@@ -36,4 +36,5 @@ checksum calculation:
 So now you should also write some code that calculates the checksum for a given number, and identifies if it is a valid account number.
 
 
+Bitte jeweils Unit-Tests schreiben, um die Korrektheit des erstellten Codes zu prüfen. 
 
