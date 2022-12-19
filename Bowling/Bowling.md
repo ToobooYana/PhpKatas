@@ -32,3 +32,10 @@ Das kann als Webanwendung erstellt werden oder als Konsolenanwendung.
 # User Story 2 
 
 Nun wird das Programm erweitert. Das Spiel soll nun für zwei Personen gedacht sein. Am Anfang sollen die beiden Personen ihre Namen schreiben. Danach wird im Wechsel abgefragt, wieviele Pins pro Frame geworfen wurden. Zum Schluss wird dann der Name und das Gesamtergebnis von Spieler 1 und Spieler 2 ausgegeben. 
+
+
+# Hinweis
+
+Fange mit kleinen Schritten an. Erstelle für jeden kleinen Schritt schon mal einen Unit-Test und lasse immer alle Unit-Test laufen, um zu prüfen, ob die Software noch weiter korrekt läuft. Im ersten Schritt kannst du z.B. die 1. Regel umsetzen. Danach setzt du im 2. Schritt die 2. Regel um ("Ein Rahmen dessen beide Würfe zusammen 10 Pins gerissen haben (engl. spare), erhält als Punktzahl 10 + die Zahl der Pins des nächsten Wurfes.") und dann folgt Regel Nr. 3.
+
+Viel Erfolg! :-)
